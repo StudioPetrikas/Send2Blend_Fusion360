@@ -1,6 +1,6 @@
 # "Send2Blend" Autodesk Fusion360 add-in
 
-"Send2Blend" Autodesk Fusion360 add-in was creted to work in tandem with "Send2Blend" Blender plugin.
+"Send2Blend" Autodesk Fusion360 add-in was creted to work in tandem with ["Send2Blend" Blender plugin.](https://github.com/StudioPetrikas/Send2Blend_Blender)
 
 *Disclaimer: 
 The code has been pieced together by a beginner coder. There will be coding mistakes, logic mistakes, naming mistakes and various other problems with the code. Please be patient and feel free to make modifications to the code as you see fit.*
