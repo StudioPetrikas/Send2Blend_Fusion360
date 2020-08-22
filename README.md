@@ -35,7 +35,7 @@ Full workflow (Including Blender) can be found in this Youtube Video
 # How it Works
 1. Checks if Folder "S2B_Temp" exists on User/Desktop; Creates a Folder if it doesn't, deletes all files in the folder if it does.
 2. Creates a temporary document and copies all occurrences to that temporary document.
-3. Exports all occurrenced to S2B_Temp folder in STL format, "High" refinement. 
+3. Exports all occurrences to S2B_Temp folder in STL format, "High" refinement. 
 4. Names the STL files: removes version, replaces spaces with dashes where appropriate.
 5. Upon closing Fusion360 the S2B_Temp folder is removed.
 
