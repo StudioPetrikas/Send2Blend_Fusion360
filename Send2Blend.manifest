@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "e293567b-3031-4ac7-98f6-99c0d98100f0",
+    "author": "Studio Petrikas",
+    "description": "Exports files for easy bridge with Blender. Requires Send2Blend for Blender",
+    "version": "1.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
