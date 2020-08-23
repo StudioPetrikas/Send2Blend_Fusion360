@@ -12,7 +12,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
 # Installation (MacOSX)
 1. Download the [current release of Send2Blend for Fusion 360](https://github.com/StudioPetrikas/Send2Blend_Fusion360/files/5112152/Send2Blend_Fusion360_v1.0.zip)
 2. Open Autodesk Fusion 360
-3. Extract the folder
+3. Extract the downloaded folder
 4. Navigate to this location (Commmand + Space and paste): ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns
 5. Copy "Send2Blend" folder to this location
 6. In Fusion 360, navigate to Tools tab.
@@ -25,6 +25,27 @@ The code has been pieced together by a beginner coder. There will be coding mist
 Full installation proccess can also be found in this Youtube Video.
 
 *Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assingn a new keyboard shortcut for "Send To Blender". I personaly prefer CMD+B*
+
+# Installation (Windows)
+1. Download the [current release of Send2Blend for Fusion 360](https://github.com/StudioPetrikas/Send2Blend_Fusion360/files/5112152/Send2Blend_Fusion360_v1.0.zip)
+2. Extract the downloaded folder
+3. Open Autodesk Fusion 360
+4. Navigate to Tools tab.
+5. Click Add-Ins (Shift + S)
+6. Navigate to Add-Ins tab
+7. Click the green + sign, next to "My Add-Ins"
+8. Copy the extracted "Send2Blend" folder to the opened location
+9. Select "Send2Blend" folder and click Select Folder
+10. Highlight "Send2Blend" and click Run
+11. Make sure "Run on Startup" is ticked
+12. Restart Fusion 360
+
+Full installation proccess can also be found in this Youtube Video.
+
+*Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assingn a new keyboard shortcut for "Send To Blender". I personaly prefer CMD+B*
+
+
+
 
 # Usage
 1. Create a model as usual
