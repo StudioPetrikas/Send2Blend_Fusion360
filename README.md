@@ -30,7 +30,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
 4. Save and name your project
 5. Click the Blender Icon in "Tools" panel, or hit your assigned Keyboard Shortcut.
 
-Full workflow (Including Blender) can be found in this Youtube Video
+Full workflow (Including Blender) can be found in [this Youtube Video.](https://www.youtube.com/watch?v=HfhuiakfqBQ)
 
 # How it Works
 1. Checks if Folder "S2B_Temp" exists on User/Desktop; Creates a Folder if it doesn't, deletes all files in the folder if it does.
