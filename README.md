@@ -10,7 +10,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
   - Huge chunks of code borrowed from ExportIt by WilkoV [Fusion 360 ExportIt](https://github.com/WilkoV/Fusion360_ExportIt)
 
 # Installation (MacOSX)
-1. Download the [current release of Send2Blend for Fusion360](https://github.com/StudioPetrikas/Send2Blend_Fusion360/files/5112152/Send2Blend_Fusion360_v1.0.zip)
+1. Download the [current release of Send2Blend for Fusion 360](https://github.com/StudioPetrikas/Send2Blend_Fusion360/files/5112152/Send2Blend_Fusion360_v1.0.zip)
 2. Open Autodesk Fusion 360
 3. Extract the folder
 3. Hit Command + Space
