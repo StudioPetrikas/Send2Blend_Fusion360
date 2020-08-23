@@ -13,8 +13,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
 1. Download the [current release of Send2Blend for Fusion 360](https://github.com/StudioPetrikas/Send2Blend_Fusion360/files/5112152/Send2Blend_Fusion360_v1.0.zip)
 2. Open Autodesk Fusion 360
 3. Extract the folder
-3. Hit Command + Space
-4. Copy / Paste this location: ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns
+4. Navigate to this location (Commmand + Space and paste): ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns
 5. Copy "Send2Blend" folder to this location
 6. In Fusion 360, navigate to Tools tab.
 7. Click Add-Ins (Shift + S)
