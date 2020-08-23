@@ -40,7 +40,7 @@ Full installation proccess can also be found in this Youtube Video.
 11. Make sure "Run on Startup" is ticked
 12. Restart Fusion 360
 
-Full installation proccess can also be found in this Youtube Video.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b_SJ8AmRgg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assingn a new keyboard shortcut for "Send To Blender". I personaly prefer CMD+B*
 
