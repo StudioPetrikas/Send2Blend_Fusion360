@@ -24,7 +24,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
 
 Full installation proccess can also be found in [this Youtube Video](https://youtu.be/b_SJ8AmRgg0).
 
-*Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assingn a new keyboard shortcut for "Send To Blender". I personaly prefer CMD+B*
+*Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assign a new keyboard shortcut for "Send To Blender". I personally prefer CMD+B*
 
 # Installation (Windows)
 1. Download the [current release of Send2Blend for Fusion 360](https://github.com/StudioPetrikas/Send2Blend_Fusion360/files/5112152/Send2Blend_Fusion360_v1.0.zip)
@@ -42,7 +42,7 @@ Full installation proccess can also be found in [this Youtube Video](https://you
 
 Full installation proccess can also be found in [this Youtube Video](https://www.youtube.com/watch?v=4qiI8WLwvvU).
 
-*Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assingn a new keyboard shortcut for "Send To Blender". I personaly prefer CMD+B*
+*Highly Recommended: After the installation, navigate to "Tools" panel, click on Add-Ins drop down, and assign a new keyboard shortcut for "Send To Blender".
 
 
 
