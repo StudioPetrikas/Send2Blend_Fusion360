@@ -26,7 +26,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
 # Usage
 1. Create a model as usual
 2. Make sure to name your components appropiately. Once named, you should avoid renaming at all costs; Names are the only way to link objects with Blender (so far)
-3. T-Splines, Surfaces, Meshes will not be exported. Convert them to B-Rep bodies for export if neccessary
+3. T-Splines, Surfaces, Meshes and bodies outside compoenets will not be exported. Convert them to B-Rep bodies for export if neccessary and make sure to create a component for any "loose" bodies.
 4. Save and name your project
 5. Click the Blender Icon in "Tools" panel, or hit your assigned Keyboard Shortcut.
 
